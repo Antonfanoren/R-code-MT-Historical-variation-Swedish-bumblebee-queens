@@ -6,8 +6,9 @@ R code for master's thesis "Historical variation in queen body size of Swedish b
 
 This folder is an R script for reproducing the thesis analyses.
 
-## File
+## File 
 
+https://gunet-my.sharepoint.com/:x:/g/personal/gusnorenan_student_gu_se/IQAK5vZEuNkmRqPcIJXkPYtQAdKbM8QzdJvmGinlNCA6pHM?e=P9eJqa 
 - `bombus_thesis_analysis_ordered.R`
 - https://drive.google.com/drive/folders/1N1guUIN02LGJeXFUyBCRZbqgRE1-n530?usp=drive_link 
 
@@ -1079,3 +1080,6 @@ print(sessionInfo())
 sink()
 
 END
+
+Contact:
+antonfanoren@gmail.com
