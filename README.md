@@ -9,6 +9,7 @@ This folder is an R script for reproducing the thesis analyses.
 ## File
 
 - `bombus_thesis_analysis_ordered.R`
+- https://drive.google.com/drive/folders/1N1guUIN02LGJeXFUyBCRZbqgRE1-n530?usp=drive_link 
 
 ## How to run
 
@@ -29,7 +30,7 @@ climate_file <- "climate_spring_regions.csv"
 
 --------------------------------------------
 # Bombus queen ITD analysis
-# Ordered R script for reproducible thesis analyses
+# R script for reproducible thesis analyses
 --------------------------------------------
 #
 # HOW TO USE
@@ -41,6 +42,7 @@ climate_file <- "climate_spring_regions.csv"
 # - Bombus_ITD_AN.xlsx or equivalent raw ITD file
 # - Regional spring climate CSV with columns:
 #   region, year, temp_mean_spring, pr_sum_spring
+#   SEE FILES IN GOOGLE DRIVE
 #
 # Main outputs:
 # - Tables as CSV files in output_dir
